@@ -1,0 +1,13 @@
+ID;Name;Mitarbeiter;Deutsch;Franzoesisch;Mathematik;Pruefungssimultaion;Preis Langzeit Kurs;Preis-Kategorie;Maximale Anzahl der Teilnehmer;E-Learning;Intensiver Kurs;Preis Intensiver Kurs;Onlinepruefung;Aufsatzkorrektur;Einstufungstest;Einzelkurse
+1;Gymivorbereitung Zuerich;9;True;True;True;True;2990;B;8;True;True;995;False;True;False;True
+2;Lern- und Sprachsysteme Muehlebach ;35;True;True;True;True;2940;B;8;True;True;920;False;True;False;False
+3;Gymiseminar;2;True;True;True;True;1990;A;8;False;True;950;False;True;False;True
+4;Learning Culture;50;True;True;True;True;1900;A;8;False;True;950;False;True;False;True
+5;Examprep;16;True;True;True;True;2400;B;6;True;True;900;False;True;False;False
+6;Nachilfe Akademie;9;True;True;True;True;3960;C;4;True;True;1221;False;True;True;True
+7;Schule Zuerich Nord;16;True;True;True;True;2950;B;14;False;False;0;False;True;False;False
+8;Open Learning Space;12;True;True;True;True;3290;C;5;False;False;0;False;True;False;False
+9;Schlaumacher;11;True;True;True;True;2340;B;8;False;True;877.5;False;True;False;True
+10;Logos Lehrerteam;85;True;True;True;True;3400;C;5;True;True;1240;False;True;False;False
+11;Alphasprachwelt;4;True;True;True;True;2973;B;6;False;False;0;False;True;True;False
+12;LearningCube;11;True;True;True;True;2500;B;2 bis 3;True;True;1025;False;True;True;False
